@@ -1,4 +1,4 @@
-FROM luismesalas/base:1.0.0
+FROM luismesalas/base
 MAINTAINER luismesalas
 
 ARG MIRROR=http://apache.mirrors.pair.com
